@@ -1,8 +1,9 @@
 ---
-title: About
 layout: page
+title: About
+permalink: /about/
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Ziyaad Parker](/assets/images/ziyaad_profile.jpg){:class="img-responsive" width="250" height="350"}
 
 <p>I am a Computer Scientist who is currently working with H3ABioNet as a Data Manager
 to solve the many challenges of submitting Terabytes and Petabytes of genomic data to
@@ -13,22 +14,31 @@ the lives of millions of people.</p>
 <p>I use the Python programming tools on a daily basis. I also teach and train other
 people to use Python, Linux and Github. The other topics I teach are FAIR Data and
 Open Licenses. I give talks at online webinars as well as meetings, conferences and
-workshops. In my spare time, I cycle and hike. I also like to travel.</p>
+workshops. In my spare time I enjoy cycling and hiking.</p>
 
-<h2>Skills</h2>
+### Technical Skills
+- Python
+- Linux
+- Git
+- HTML, CSS Frameworks (Bootstrap, Foundation)
+- Responsive (Mobile First)
+- JavaScript
+- Django
+- Wordpress
+- Android Development
+- TensorFlow
+- MySQL - MSSQL - Postgresql
+- Java - C#
+- And more that I know but not an expert on
 
-<ul class="skill-list">
-  <li>Python</li>
-	<li>Linux</li>
-	<li>Git</li>
-	<li>HTML</li>
-	<li>Responsive (Mobile First)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript</li>
-	<li>Django</li>
-	<li>Wordpress</li>
-	<li>Android Development</li>
-	<li>TensorFlow</li>
-	<li>MySQL - MSSQL - Postgresql</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+### Business Skills
+- Project Management
+- Hosting meetings (Events, Workshops, Conferences, Hackathons, Jamborees, Tours, etc)
+- Training
+- Public speaking
+- Bargaining strategies
+- Writing
+- Short video production
+- Fundraising
+- Startup Execution - from idea to market launch
+- Innovation and creating new opportunities

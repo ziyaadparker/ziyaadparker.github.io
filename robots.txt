@@ -1,2 +1,6 @@
 User-agent: *
-Disallow:
+Disallow: /about/
+Disallow: /community/
+Disallow: /presentations/
+Disallow: /projects/
+Allow: /
