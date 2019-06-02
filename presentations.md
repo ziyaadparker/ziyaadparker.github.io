@@ -9,7 +9,7 @@ Presentations that I have over the years locally and internationally.
 <ul>
   <strong>Title</strong>. <em><u>Event</u></em>. Location. Date
 
-  <li><p><strong>Introduction to Github</strong>. <em><u>Precision Medicine and Microbiome Web Portal Hackathon</u></em>. Online. 12 April 2019</p></li>
+  <li><p><strong>Introduction to Github</strong>. <em><u>Precision Medicine and Microbiome Web Portal Hackathon</u></em>. Tunis, Tunisia. 12 April 2019</p></li>
   <li><p><strong>FAIR data</strong>. <em><u>H3Africa - Online Webinar</u></em>. Online. 16 August 2018</p></li>
   <li><p><strong>H3Africa Archive Update</strong>. <em><u>H3ABioNet AGM</u></em>. Cape Town, South Africa. 26 July 2018</p></li>
   <li><p><strong>Introduction to FAIR data</strong>. <em><u>H3ABioNet AGM</u></em>. Cape Town, South Africa. 24 July 2018</p></li>
