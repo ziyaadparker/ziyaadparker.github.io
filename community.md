@@ -43,7 +43,7 @@ List of community activities I was involved with.
   </li>
 
   <li>
-    <p><strong>Teacher</strong> - Taught the students in grade 5 to code in websites in html. <em>GirlHype</em>.
+    <p><strong>Teacher</strong> - Taught the students in grade 5 to code websites in html. <em>GirlHype</em>.
       Cape Town, South Africa.  1 - 5 July 2013
     </p>
   </li>

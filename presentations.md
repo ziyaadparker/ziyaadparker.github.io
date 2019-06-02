@@ -9,8 +9,7 @@ Presentations that I have over the years locally and internationally.
 <ul>
   <strong>Title</strong>. <em><u>Event</u></em>. Location. Date
 
-  Put some links so it looks a bit blue
-
+  <li><p><strong>Introduction to Github</strong>. <em><u>Precision Medicine and Microbiome Web Portal Hackathon</u></em>. Online. 12 April 2018</p></li>
   <li><p><strong>FAIR data</strong>. <em><u>H3Africa - Online Webinar</u></em>. Online. 16 August 2018</p></li>
   <li><p><strong>H3Africa Archive Update</strong>. <em><u>H3ABioNet AGM</u></em>. Cape Town, South Africa. 26 July 2018</p></li>
   <li><p><strong>Introduction to FAIR data</strong>. <em><u>H3ABioNet AGM</u></em>. Cape Town, South Africa. 24 July 2018</p></li>
@@ -27,7 +26,7 @@ Presentations that I have over the years locally and internationally.
   <li><p><strong>Acquiring data from patients in North West clinics using a mobile device</strong>. <em><u>COBALT Training</u></em>. Klerksdorp, South Africa. 14 October 2015</p></li>
   <li><p><strong>Gain access to a wifi router using free tools found online</strong>. <em><u>Dev Daze</u></em>. Cape Town, South Africa. 20 October 2014</p></li>
 
-There were other presentations that I tremendously assisted with but due to the fact I did not present because of not being available, it will not be mentioned. 
+There were other presentations that I tremendously assisted with but due to the fact I did not present because of not being available, it will not be mentioned.
 
 </ul>
 </section>
