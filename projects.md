@@ -25,7 +25,7 @@ A hand-picked selection of projects, businesses and experiments I’ve designed,
     As the rise of cryptocurrencies and more investors buying into Ethereum due to ICO’s and other investment factors. The rise of hacking that takes place with Bitcoin was also increasing. An Ethereum Web App was built to help investors avoid their Ethereum getting hacked and stolen. All compromised private keys are stored in this database.
     There are two parts to this project:
     <ul>
-      <li><a href="https://github.com/ziyaadparker/eth-secure">Code</a> that generates the keys - Using the algorithm created by the founder in the Ethereum whitepaper, I generated all the possible private keys for the Ethereum cryptocurrency.</li> 
+      <li><a href="https://github.com/ziyaadparker/eth-secure">Code</a> that generates the keys - Using the algorithm created by the founder in the Ethereum whitepaper, I generated all the possible private keys for the Ethereum cryptocurrency.</li>
       <li>Web Interface for user to search the database (built using the Django Framework) - If the private key has been found in the database then the user should not be using it. This is a red flag.</li>
     </ul>
   </p>
@@ -144,5 +144,12 @@ Some notable web applications that I worked on.
     current problem existed that one group of refugees could not find another group of refugees residing in the same area.
     I created a very simple website that included an About page, Contact page with address and Google Maps integration, gallery of the refugee camp and an online application
     form for other refugees to find and join. The main aim of the website is for refugees to find other refugees. I SEO optimized the website for easy finding on Google.</p>
+  </li>
+</ul>
+
+<h2>Publications</h2>
+<ul>
+  <li>
+  Parker, Z., Maslamoney, S., Meintjes, A., Botha, G., Panji, S., Hazelhurst, S. and Mulder, N., 2019. Building Infrastructure for African Human Genomic Data Management. Data Science Journal, 18(1), p.47. DOI: <a href="http://doi.org/10.5334/dsj-2019-047">http://doi.org/10.5334/dsj-2019-047</a>
   </li>
 </ul>
