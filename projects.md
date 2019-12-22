@@ -50,6 +50,24 @@ A hand-picked selection of projects, businesses and experiments I’ve designed,
   </li>
 </ul>
 
+
+<h2>Artificial Intelligence Engineering</h2>
+<ul>
+  <li>
+    <p><strong>BunaGrind</strong>: Orders coffee from any coffee shop registered on the system. Provides users with intelligent visualization and personalized recommendations. Gives users insights into purchase history with various detailed graphs. Gives a recommendation based on weather, purchase history and what similar customers have purchased. Currently building a robotic hand to make coffee better than a barista. </p>
+  </li>
+</ul>
+<ul>
+  <li>
+    <p><strong>Ganscape</strong>: Engineered a robotic hand to paint like an artist. Still in the infancy stages as it does abstract paintings presently. Contains Deep Learning algorithms such as neural networks to classify images and paint accordingly. Also uses generative vector art as layers for the artwork. The first stages were to convert photos into paintings that look like it was painted by famous artists. </p>
+  </li>
+</ul>
+<ul>
+  <li>
+    <p><strong>CoinScout</strong>: Bitcoin trading bot that uses Deep Learning algorithms such as recurrent neural networks to predict the price of bitcoin and other alternative coins. </p>
+  </li>
+</ul>
+
 <h2>Mobile Game Development</h2>
 Been removed from the Google Play Store due to lack of time to maintain it. All of it was done on Android.
 <ul>
