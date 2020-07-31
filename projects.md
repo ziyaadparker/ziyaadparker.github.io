@@ -59,12 +59,12 @@ A hand-picked selection of projects, businesses and experiments I’ve designed,
 </ul>
 <ul>
   <li>
-    <p><strong>Ganscape</strong>: Engineered a robotic hand to paint like an artist. Still in the infancy stages as it does abstract paintings presently. Contains Deep Learning algorithms such as neural networks to classify images and paint accordingly. Also uses generative vector art as layers for the artwork. The first stages were to convert photos into paintings that look like it was painted by famous artists. </p>
+    <p><strong>Ganscape</strong>: Engineering a robotic hand to paint like an artist. Still in the infancy stages as it does abstract paintings presently. Contains Deep Learning algorithms such as neural networks to classify images and paint accordingly. Also uses generative vector art as layers for the artwork. The first stages were to convert photos into paintings that look like it was painted by famous artists. </p>
   </li>
 </ul>
 <ul>
   <li>
-    <p><strong>CoinScout</strong>: Bitcoin trading bot that uses Deep Learning algorithms such as recurrent neural networks to predict the price of bitcoin and other alternative coins. </p>
+    <p><strong>CoinScout</strong>: Bitcoin trading bot that uses Deep Learning algorithms (recurrent and reinforcement learning) to predict the price of bitcoin and other alternative coins. Trades automatically and sends notifications to Telegram. Used openly available code on Github <a href="https://github.com/freqtrade/freqtrade">Freqtrade</a> and <a href="https://github.com/tensortrade-org/tensortrade">Tensortrade</a></p>
   </li>
 </ul>
 
