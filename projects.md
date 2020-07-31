@@ -15,7 +15,7 @@ A hand-picked selection of projects, businesses and experiments I’ve designed,
 <ul>
   <li>
     <p><strong>WizCreator</strong>: This was a Whiteboard Animation business that started out as a hobby while I was final year in my Computer Science degree.
-    I managed the people responsible for graphics, voice overs and script writing. Most of them were in remote locations. I was also responsible for producing and making sure the videos were completed on time and in the right budget constraints. I call this venture successful because we managed to produced videos for some large corporate clients such as Sanlam and Nedbank as well as government clients in India, Papa New Guinea, Kenya and other countries.  
+    I managed the people responsible for graphics, voice overs and script writing. Most of them were in remote locations. I was also responsible for producing and making sure the videos were completed on time and in the right budget constraints. I call this venture successful because we managed to produced videos for some large corporate clients in the financial sector as well as government clients in India, Papa New Guinea, Kenya and other countries.  
     </p>
   </li>
 </ul>
@@ -40,7 +40,7 @@ A hand-picked selection of projects, businesses and experiments I’ve designed,
 <ul>
   <li>
     <p><strong>MotorWorld</strong>: Online classifieds for buying and selling cars. Discontinued due to lack of experience with the industry. Car sellers
-    were not interested because of the low number of car buyers. In order to get buyers there had to be sellers and in order to have sellers there had to be buyers.</p>
+    were not interested because of the low number of car buyers. In order to get buyers there had to be sellers and in order to have sellers there had to be buyers. </p>
   </li>
 </ul>
 <ul>
@@ -65,26 +65,6 @@ A hand-picked selection of projects, businesses and experiments I’ve designed,
 <ul>
   <li>
     <p><strong>CoinScout</strong>: Bitcoin trading bot that uses Deep Learning algorithms such as recurrent neural networks to predict the price of bitcoin and other alternative coins. </p>
-  </li>
-</ul>
-
-<h2>Mobile Game Development</h2>
-Been removed from the Google Play Store due to lack of time to maintain it. All of it was done on Android.
-<ul>
-  <li>
-    <p><strong>Ape Theory</strong>: An ape who does not have skills to cut ropes needs to get bananas that are hanging on ropes from the trees. The good part is
-    that he can climb trees. The player has to play with the ape to get the bananas by cutting the ropes.</p>
-  </li>
-</ul>
-<ul>
-  <li>
-    <p><strong>Magic Tortoise</strong>: Inspiration from the famous Flappy Bird and <a href="https://github.com/cubei/FlappyCow">Flappy Cow</a>. The player plays with a magical
-    flying tortoise that must fly between silver pipes without hitting them. Once the player hits a pipe, the player dies and restarts. </p>
-  </li>
-</ul>
-<ul>
-  <li>
-    <p><strong>Pear Snap</strong>: Player plays as a pear, the pear need needs to jump as high as possible by tilting the mobile device. The game has bombs, coins, trampolines and more.</p>
   </li>
 </ul>
 
@@ -162,6 +142,26 @@ Some notable web applications that I worked on.
     current problem existed that one group of refugees could not find another group of refugees residing in the same area.
     I created a very simple website that included an About page, Contact page with address and Google Maps integration, gallery of the refugee camp and an online application
     form for other refugees to find and join. The main aim of the website is for refugees to find other refugees. I SEO optimized the website for easy finding on Google.</p>
+  </li>
+</ul>
+
+<h2>Mobile Game Development</h2>
+Been removed from the Google Play Store due to lack of time to maintain it. All of it was done on Android.
+<ul>
+  <li>
+    <p><strong>Ape Theory</strong>: An ape who does not have skills to cut ropes needs to get bananas that are hanging on ropes from the trees. The good part is
+    that he can climb trees. The player has to play with the ape to get the bananas by cutting the ropes.</p>
+  </li>
+</ul>
+<ul>
+  <li>
+    <p><strong>Magic Tortoise</strong>: Inspiration from the famous Flappy Bird and <a href="https://github.com/cubei/FlappyCow">Flappy Cow</a>. The player plays with a magical
+    flying tortoise that must fly between silver pipes without hitting them. Once the player hits a pipe, the player dies and restarts. </p>
+  </li>
+</ul>
+<ul>
+  <li>
+    <p><strong>Pear Snap</strong>: Player plays as a pear, the pear need needs to jump as high as possible by tilting the mobile device. The game has bombs, coins, trampolines and more.</p>
   </li>
 </ul>
 
