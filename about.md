@@ -24,11 +24,10 @@ workshops. In my spare time I enjoy cycling and hiking.</p>
 - Responsive (Mobile First)
 - JavaScript
 - Django
+- Web Servers
 - Wordpress
-- Android Development
 - TensorFlow
 - MySQL - MSSQL - Postgresql
-- Java - C#
 - And more that I know but not an expert on
 
 ### Business Skills
