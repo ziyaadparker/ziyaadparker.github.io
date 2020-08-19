@@ -3,12 +3,13 @@ layout: page
 title: Presentations
 permalink: /presentations/
 ---
-Presentations that I have over the years locally and internationally.
+Presentations that I have completed over the years locally and internationally.
 
 <section class="list">
 <ul>
   <strong>Title</strong>. <em><u>Event</u></em>. Location. Date
-
+    
+  <li><p><strong>Food Inventory Application</strong>. <em><u>Techcrunch Disrupt 2019</u></em>. Berlin, Germany. 12 December 2019</p></li>
   <li><p><strong>H3Africa Catalog</strong>. <em><u>H3Africa Consortium</u></em>. Accra, Ghana. 26 September 2019</p></li>
   <li><p><strong>H3Africa Catalog Update and Features</strong>. <em><u>H3ABioNet AGM</u></em>. Cape Town, South Africa. 2 August 2019</p></li>
   <li><p><strong>Introduction to Github</strong>. <em><u>Precision Medicine and Microbiome Web Portal Hackathon</u></em>. Tunis, Tunisia. 12 April 2019</p></li>
