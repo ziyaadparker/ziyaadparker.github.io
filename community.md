@@ -15,7 +15,7 @@ List of community activities I was involved with.
     </p>
   </li>
   <li>
-    <p><strong>Lead Developer</strong>. <em><a href="https://github.com/h3abionet/african_genomics_medicine_portal">Precision Medicine and Microbiome Web Portal Hackathon</a></em>.
+    <p><strong>Lead Architect</strong>. <em><a href="https://github.com/h3abionet/african_genomics_medicine_portal">Precision Medicine and Microbiome Web Portal Hackathon</a></em>.
       Tunis, Tunisia. 12 - 19 April 2019
     </p>
   </li>
