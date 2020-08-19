@@ -10,6 +10,16 @@ List of community activities I was involved with.
   <strong>Role</strong>. <em>Event</em>. Location. Date
 
   <li>
+    <p><strong>AI Developer</strong>. <em><a href="https://techcrunch.com/">Techcrunch Disrupt Hackathon 2019</a></em>.
+      Berlin, Germany. 11 - 12 December 2019
+    </p>
+  </li>
+  <li>
+    <p><strong>Lead Developer</strong>. <em><a href="https://github.com/h3abionet/african_genomics_medicine_portal">Precision Medicine and Microbiome Web Portal Hackathon</a></em>.
+      Tunis, Tunisia. 12 - 19 April 2019
+    </p>
+  </li>
+  <li>
     <p><strong>Lecturer</strong>. <em><a href="https://mozillascience.github.io/EastAfricaWOW/">East Africa Open Science Tour</a></em>.
       Entebbe-Uganda, Addis Ababa-Ethiopia, Khartoum-Sudan and Nairobi-Kenya. 12 - 23 November 2018
     </p>
