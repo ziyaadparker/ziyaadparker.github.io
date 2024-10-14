@@ -5,6 +5,9 @@
 layout: page
 description: Hi, I'm Ziyaad Parker. My interests are Software specifically Mobile, Web, Big Data, and Artificial Intelligence. In business my focus is on Startups, Innovation, Growth and Job opportunities.
 ---
+
+Hello!
+
 ## I solve problems using technology. 
 
 ![Sudanese Ginger Coffee](/assets/images/ginger_coffee.jpg)
