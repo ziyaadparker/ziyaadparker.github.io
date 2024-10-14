@@ -33,3 +33,13 @@ There were other presentations that I tremendously assisted with but due to the 
 
 </ul>
 </section>
+
+<h2>Publications</h2>
+<ul>
+  <li>
+  Parker, Z., Maslamoney, S., Meintjes, A., Botha, G., Panji, S., Hazelhurst, S. and Mulder, N., 2019. Building Infrastructure for African Human Genomic Data Management. Data Science Journal, 18(1), p.47. DOI: <a href="http://doi.org/10.5334/dsj-2019-047">http://doi.org/10.5334/dsj-2019-047</a>
+  </li>
+  <li>
+  Fadlemola, F M., Ghedira, K., Parker, Z., Mulder, N., et al, 2021. H3ABioNet genomic medicine and microbiome data portals hackathon proceedings. Database, Volume 2021, 2021, baab016. DOI: <a href="https://doi.org/10.1093/database/baab016">https://doi.org/10.1093/database/baab016</a>
+  </li>
+</ul>

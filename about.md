@@ -20,21 +20,22 @@ workshops. In my spare time I enjoy cycling and hiking.</p>
 - Python
 - Linux
 - Git
-- HTML, CSS Frameworks (Bootstrap, Foundation)
+- HTML, CSS Frameworks (Bootstrap, Tailwind)
 - Responsive (Mobile First)
-- JavaScript
+- JavaScript / Typescript (React / NextJS)
 - Django
 - Web Servers
 - Wordpress
-- TensorFlow
 - MySQL - MSSQL - Postgresql
-- And more that I know but not an expert on
+- Flutter / React Native
+- And more that I know of
 
 ### Business Skills
 - Project Management
 - Hosting meetings (Events, Workshops, Conferences, Hackathons, Jamborees, Tours, etc)
 - Training
 - Public speaking
+- Leading teams
 - Bargaining strategies
 - Writing
 - Short video production
